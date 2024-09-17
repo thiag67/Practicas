@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\data\\parametrosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\data\\parametrosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\services\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\services\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\articulosback\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\articulosback.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\articulosback.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\articulosback\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CA3F59-C20E-4DEB-92EB-D6AC3DEF71B2}|ArticulosBack\\ArticulosBack.csproj|solutionrelative:articulosback\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC290D0-0DDB-42DF-85B4-F141D5AA096D}|proyecto[Practica02]\\proyecto[Practica02].csproj|c:\\users\\administrator\\desktop\\practicas\\proyecto[practica02]\\proyecto[practica02]\\proyecto[practica02]\\proyecto[practica02].http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0DC290D0-0DDB-42DF-85B4-F141D5AA096D}|proyecto[Practica02]\\proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\proyecto[practica02].http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParametroSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\ParametroSQL.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Data\\ParametroSQL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\ParametroSQL.cs",
+              "RelativeToolTip": "ArticulosBack\\Data\\ParametroSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:14:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Data\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\ArticuloRepository.cs",
+              "RelativeToolTip": "ArticulosBack\\Data\\ArticuloRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:43:48.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\DBHelper.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Data\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\DBHelper.cs",
+              "RelativeToolTip": "ArticulosBack\\Data\\DBHelper.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:55:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Services\\ArticuloManager.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Services\\ArticuloManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Services\\ArticuloManager.cs",
+              "RelativeToolTip": "ArticulosBack\\Services\\ArticuloManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:26:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Models\\Articulo.cs",
+              "RelativeToolTip": "ArticulosBack\\Models\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:17:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Data\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Data\\IArticuloRepository.cs",
+              "RelativeToolTip": "ArticulosBack\\Data\\IArticuloRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:34:05.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ArticulosBack\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Properties\\Resources.resx",
+              "RelativeToolTip": "ArticulosBack\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-17T18:40:05.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticulosBack",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\ArticulosBack.csproj",
+              "RelativeDocumentMoniker": "ArticulosBack\\ArticulosBack.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\ArticulosBack.csproj",
+              "RelativeToolTip": "ArticulosBack\\ArticulosBack.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T18:39:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "proyecto[Practica02].http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\proyecto[Practica02]\\proyecto[Practica02].http",
+              "RelativeDocumentMoniker": "proyecto[Practica02]\\proyecto[Practica02].http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\proyecto[Practica02]\\proyecto[Practica02].http",
+              "RelativeToolTip": "proyecto[Practica02]\\proyecto[Practica02].http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-17T16:43:05.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Class1.cs",
+              "RelativeDocumentMoniker": "ArticulosBack\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Practicas\\proyecto[Practica02]\\proyecto[Practica02]\\ArticulosBack\\Class1.cs",
+              "RelativeToolTip": "ArticulosBack\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:51:37.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
